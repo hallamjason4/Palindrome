@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\Palind\bin\Debug\Palind.exe.config
+C:\Users\Jaspon\source\repos\Exercises\Palind\bin\Debug\Palind.exe
+C:\Users\Jaspon\source\repos\Exercises\Palind\bin\Debug\Palind.pdb
+C:\Users\Jaspon\source\repos\Exercises\Palind\obj\Debug\Palind.csprojAssemblyReference.cache
+C:\Users\Jaspon\source\repos\Exercises\Palind\obj\Debug\Palind.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\Palind\obj\Debug\Palind.exe
+C:\Users\Jaspon\source\repos\Exercises\Palind\obj\Debug\Palind.pdb
